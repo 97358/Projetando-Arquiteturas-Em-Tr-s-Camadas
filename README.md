@@ -1,6 +1,6 @@
 # Projeto Arquiteturas em três camadas. #
 
-##  Três camadas. ##
+##  Arquitetura em três camadas. ##
 
 📝 **Nota:** Demonstração de criação de arquiteturas em três camadas.
 
